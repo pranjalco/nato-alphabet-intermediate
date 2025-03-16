@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d434f4a3-abbb-487e-9e94-9d2abbc1beb3" name="Changes" comment="" />
+    <list default="true" id="d434f4a3-abbb-487e-9e94-9d2abbc1beb3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -38,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/paw/Projects/30-26-NATO-alphabet-start"
+    "last_opened_file_path": "C:/paw/Projects/30-29-password-manager-start"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -46,7 +52,7 @@
       <recent name="C:\paw\PycharmProjects\day-26-NATO-alphabet-start\experiments" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app_2 (2)">
+  <component name="RunManager" selected="Python.app">
     <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="day-26-NATO-alphabet-start" />
       <option name="ENV_FILES" value="" />
@@ -159,7 +165,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.app_2 (2)" />
         <item itemvalue="Python.app_2 (1)" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.app (1)" />
